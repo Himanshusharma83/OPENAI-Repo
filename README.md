@@ -47,11 +47,14 @@ npm install
 # OR
 npm i
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca76010b-1962-4e92-8e72-8b6202274533" />
 
 
-2. Run the App
+
+
+### 2. Run the App
 Start the development server:
-
-Bash
-
 npm start
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/005474f2-27e6-41d1-8122-3c30a6dfbb06" />
+
