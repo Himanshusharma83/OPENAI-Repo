@@ -1,10 +1,4 @@
-# [YOUR PROJECT NAME HERE] 🚀
-
-**Short, catchy description of your project. What does it do?**
-
-This project is a [Type of Application, e.g., chatbot, data visualizer, utility tool] built with **React** and utilizes the **OpenAI API** for its core functionality.
-
----
+OPEN AI Project
 
 ## Prerequisites
 
