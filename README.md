@@ -26,9 +26,11 @@ Before running this project, you need to have the following installed:
 * *6* Last and finaly step for OPEN AI key setup paste key in your code :-
 * *a* search for openaiHelper.ts file and paste the key  :- 
  const apiKey = process.env.REACT_APP_OPENAI_API_KEY here :- 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cb61c395-01b8-4b56-99ae-ce06737f747a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dfc5af71-2cac-4c44-9f7c-59dc113ff845" />
+
 example :-
- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/751c4fcd-27eb-42b8-8ea6-9ae7659f2d20" />
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57a37d62-a879-48bc-9311-a6e86ef8256b" />
+
 
 
 Well Done the OPEN AI Key Setup Done Congrulation :- 
