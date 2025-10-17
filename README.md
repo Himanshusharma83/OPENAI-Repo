@@ -33,8 +33,6 @@ example :-
 
 
 
-Well Done the OPEN AI Key Setup Done Congrulation :- 
-
 ## Getting Started
 
 Follow these steps to get your development environment set up and running.
