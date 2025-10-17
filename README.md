@@ -15,7 +15,7 @@ npm i
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca76010b-1962-4e92-8e72-8b6202274533" />
 
 
-Before running this project, you need to have the following installed:
+### 3. Before running this project, you need to have the following installed:
 
 * **Node.js** (which includes npm)
 * **An OpenAI API Key** (Get one from the [OpenAI website](https://platform.openai.com/account/api-keys))
