@@ -15,8 +15,23 @@ Before running this project, you need to have the following installed:
 
 !Important: Copy the key immediately, as you won't be able to see it again!
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4893a3d1-26a9-40c1-8f77-e7b89a2fefb4" />
-      
 
+* *4* once you click on  "Create new secret key" button this type of screen will come fill details in this screen and click on create secret button :-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/53aebad4-8458-421c-9c4c-94923eacebe5" />
+
+* *5* Once you click on the create secret button then you get the key copy the key and store it in notepad  :-
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4839b8c5-3295-41f7-b57c-e5c8721814dc" />
+
+* *6* Last and finaly step for OPEN AI key setup paste key in your code :-
+* *a* search for openaiHelper.ts file and paste the key  :- 
+ const apiKey = process.env.REACT_APP_OPENAI_API_KEY here :- 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cb61c395-01b8-4b56-99ae-ce06737f747a" />
+example :-
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/751c4fcd-27eb-42b8-8ea6-9ae7659f2d20" />
+
+
+Well Done the OPEN AI Key Setup Done Congrulation :- 
 
 ## Getting Started
 
@@ -26,18 +41,13 @@ Follow these steps to get your development environment set up and running.
 
 In the project directory, install all required Node modules:
 
-```bash
 npm install
 # OR
 npm i
 
 
-### 2. Add your key to the file, ensuring it's prefixed with REACT_APP_ as required by Create React App:
 
-REACT_APP_OPENAI_API_KEY=your_actual_secret_key_goes_here
-
-
-3. Run the App
+2. Run the App
 Start the development server:
 
 Bash
