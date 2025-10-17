@@ -7,13 +7,13 @@ Before running this project, you need to have the following installed:
 * **Node.js** (which includes npm)
 * **An OpenAI API Key** (Get one from the [OpenAI website](https://platform.openai.com/account/api-keys))
 
-Generate a New Key
+* *1* Generate a New Key
 
-Navigate to the API keys section.
+* *2* Navigate to the API keys section.
 
-Click on the "Create new secret key" button.
+* *3* Click on the "Create new secret key" button.
 
-Important: Copy the key immediately, as you won't be able to see it again!
+!Important: Copy the key immediately, as you won't be able to see it again!
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4893a3d1-26a9-40c1-8f77-e7b89a2fefb4" />
       
 
