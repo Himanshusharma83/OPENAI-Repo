@@ -1,0 +1,68 @@
+{
+  "title": "Social Support Application",
+  "steps": {
+    "personal": "Personal",
+    "family": "Family & Financial",
+    "situation": "Situation"
+  },
+  "step1PersonalInfo": {
+    "fullName": "Full Name",
+    "dob": "Date of Birth",
+    "nationalId": "National ID Number",
+    "phone": "Contact Number",
+    "email": "Email Address",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "address": "Address",
+    "city": "City",
+    "state": "State/Province",
+    "country": "Country"
+  },
+  "step2Details": {
+    "maritalStatus": "Marital Status",
+    "single": "Single",
+    "married": "Married",
+    "widowed": "Widowed",
+    "dependents": "Dependents",
+    "employmentStatus": "Employment Status",
+    "employed": "Employed",
+    "unemployed": "Unemployed",
+    "selfEmployed": "Self-employed",
+    "monthlyIncome": "Monthly Income",
+    "housingStatus": "Housing Status",
+    "owned": "Owned",
+    "rented": "Rented",
+    "shelter": "Shelter/Other"
+  },
+  "step3Details": {
+    "currentFinancialSituation": "Current Financial Situation",
+    "employmentCircumstances": "Employment Circumstances",
+    "reasonForApplying": "Reason for Applying"
+  },
+  "buttons": {
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit Application",
+    "help": "Help Me Write"
+  },
+  "modals": {
+    "aiSuggestion": "AI Suggestion",
+    "discard": "Discard",
+    "accept": "Accept",
+    "generating": "Generating suggestion...",
+    "editSuggestion": "Edit the suggested text before accepting."
+  },
+  "messages": {
+    "submitting": "Submitting...",
+    "submissionSuccess": "Application submitted",
+    "submissionAlert": "Application submitted successfully!",
+    "submissionFailed": "Submission failed",
+    "suggestionApplied": "Suggestion applied"
+  },
+  "errors": {
+    "generationCancelled": "Generation cancelled.",
+    "generationFailed": "Failed to generate suggestion."
+  }
+}

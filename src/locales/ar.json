@@ -1,0 +1,68 @@
+{
+  "title": "طلب الدعم الاجتماعي",
+  "steps": {
+    "personal": "الشخصية",
+    "family": "العائلة والمالية",
+    "situation": "الوضع"
+  },
+  "step1PersonalInfo": {
+    "fullName": "الاسم الكامل",
+    "dob": "تاريخ الميلاد",
+    "nationalId": "رقم الهوية الوطنية",
+    "phone": "رقم الاتصال",
+    "email": "عنوان البريد الإلكتروني",
+    "gender": "الجنس",
+    "male": "ذكر",
+    "female": "أنثى",
+    "other": "آخر",
+    "address": "العنوان",
+    "city": "المدينة",
+    "state": "الولاية/المقاطعة",
+    "country": "الدولة"
+  },
+  "step2Details": {
+    "maritalStatus": "الحالة الاجتماعية",
+    "single": "أعزب",
+    "married": "متزوج",
+    "widowed": "أرمل",
+    "dependents": "المعالون",
+    "employmentStatus": "حالة التوظيف",
+    "employed": "موظف",
+    "unemployed": "عاطل",
+    "selfEmployed": "عمل حر",
+    "monthlyIncome": "(العملة المحلية)",
+    "housingStatus": "حالة السكن",
+    "owned": "مملوك",
+    "rented": "مؤجر",
+    "shelter": "مأوى/أخرى"
+  },
+  "step3Details": {
+    "currentFinancialSituation": "الوضع المالي الحالي",
+    "employmentCircumstances": "ظروف العمل",
+    "reasonForApplying": "سبب التقديم"
+  },
+  "buttons": {
+    "next": "التالي",
+    "previous": "السابق",
+    "submit": "إرسال الطلب",
+    "help": "ساعدني بالكتابة"
+  },
+  "modals": {
+    "aiSuggestion": "اقتراح الذكاء الاصطناعي",
+    "discard": "رفض",
+    "accept": "قبول",
+    "generating": "جاري إنشاء الاقتراح...",
+    "editSuggestion": "يمكنك تعديل النص المقترح قبل القبول."
+  },
+  "messages": {
+    "submitting": "جاري الإرسال...",
+    "submissionSuccess": "تم إرسال الطلب",
+    "submissionAlert": "تم إرسال الطلب بنجاح!",
+    "submissionFailed": "فشل الإرسال",
+    "suggestionApplied": "تم تطبيق الاقتراح"
+  },
+  "errors": {
+    "generationCancelled": "تم إلغاء الإنشاء.",
+    "generationFailed": "فشل إنشاء الاقتراح."
+  }
+}
